@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Margaret Sabelhaus & I love all things data. Hopefully my profile can provide you some insight into what sort of projects I'm interested in. 
+My name is Margaret Sabelhaus & I love all things data.
 
 - 👀 I’m interested in machine learning, statistics, & environmental policy.
 - 🔭 I’m currently working on projects for my Advanced Machine Learning course (& various fun Kaggle competitions).
