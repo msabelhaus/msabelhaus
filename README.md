@@ -4,8 +4,8 @@ My name is Margaret Sabelhaus & I love all things data.
 
 - 👀 I’m interested in machine learning, predictive modeling, and finding trends in big data.
 - 💬 I also have skills in software development & data acquisition.
-- 🔭 I’m currently working on an image recognition project for my Advanced Machine Learning course (& various fun Kaggle competitions).
-- 🌱 I’m currently obtaining a Master's in Data Science at Colorado School of Mines.
+- 🔭 I’m currently working at Frontier Airlines, specifically introducing ML to their dynamic pricing models.
+- 🌱 I recently obtained a Master's in Data Science at Colorado School of Mines.
 - 📫 How to reach me: margaret.sabelhaus@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Art is a big part of my life and I love to paint when there's time for it. I think that's why I like Data Science so much--there's plenty of room for creativity in answering data-driven questions :) 
