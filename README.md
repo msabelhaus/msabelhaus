@@ -4,7 +4,7 @@ My name is Margaret Sabelhaus & I love all things data.
 
 - 👀 I’m interested in machine learning, predictive modeling, and finding trends in big data.
 - 💬 I also have skills in software development & data acquisition.
-- 🔭 I’m currently working at New Light Technologies, using data science techniques to enchange Census data.
+- 🔭 I’m currently working at New Light Technologies, using data science techniques to enhance Census data.
 - 🌱 I recently obtained a Master's in Data Science at Colorado School of Mines.
 - 📫 How to reach me: margaret.sabelhaus@gmail.com
 - 😄 Pronouns: She/Her
